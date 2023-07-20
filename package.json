@@ -1,0 +1,16 @@
+{
+  "name": "allure_playwright_issue",
+  "version": "1.0.0",
+  "description": "Example project to reproduce an issue",
+  "main": "index.js",
+  "scripts": {
+    "tests": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "1.36.1",
+    "allure-playwright": "2.4.0"
+  }
+}
